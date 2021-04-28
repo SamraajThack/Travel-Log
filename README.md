@@ -17,6 +17,13 @@ A full stack application to store / list places you have traveled.
   ```
 
 
+### How to use it
+  
+  * Click, drag and zoom in the map to the location you want to make a log of
+  * Double click the location and fill in the form
+  * After adding the entry it will be shown on th map as marker
+
+
 ### TODO
 
 * [x] Setup Server
