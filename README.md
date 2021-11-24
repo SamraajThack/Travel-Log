@@ -1,6 +1,6 @@
-# Full Stack Travel Log
+# Travel Log
 
-A full stack application to store / list places you have traveled.
+An application to store / list places you have traveled.
 
 ## To Run the app
   In the server folder - 
